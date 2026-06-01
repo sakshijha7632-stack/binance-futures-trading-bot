@@ -66,7 +66,7 @@ trading_bot/
 │   ├── validators.py
 │   └── logging_config.py
 │
-├── logs/
+├── 
 │
 ├── requirements.txt
 ├── README.md
